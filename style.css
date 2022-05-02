@@ -1,0 +1,408 @@
+body{
+    background-color: #f1eaea;
+}
+.container{
+    border: solid #fdf6f6;
+    margin: 5%;
+    background-color: #fdf6f6;
+    font-family: 'Karla', sans-serif;
+    /* overflow: hidden; */
+}
+.logo img{
+    width: 2%;
+}
+#abu{
+    color: #2CA794;
+}
+.abu-agency{
+    display: flex;
+    margin-left: 2%;
+    margin-top: -2.8%;
+}
+.combined{
+    margin-top: 1%;
+    margin-left: 6%; 
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-top: -1%;
+    margin-right: 13%;
+}
+#home{
+    color: #2CA794;
+}
+.navbar ul{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: -3%;
+}
+#button{
+    background-color: #6661F8;
+    width: 10%;
+    padding: 1%;
+    color: white;
+    border-radius: 25px;
+    margin-left: 83%;
+    border: none;
+}
+#insta{
+    padding: 1%;
+    border-radius: 60%;
+    background-color: #FFC300;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+#twitter{
+    padding: 0.9%;
+    border-radius: 60%;
+    color: white;
+    background-color: #2CA794;
+}
+#contact{
+    background-color: #2CA794;
+    width: 10%;
+    padding: 1%;
+    color: white;
+    border-radius: 25px;
+    border: none;
+}
+#done{
+    width: 12%;
+    padding-bottom: -1%;
+    color: rgb(0, 0, 0);
+    border-radius: 35px;
+    border: none;
+}    
+#bars{
+    padding: 2%;
+    margin-top: 9%;
+    margin-left: -60%;
+    border-radius: 60%;
+    color: #2CA794;
+    background-color: #f1eaea;
+}
+.don{
+    margin-top: -15%;
+    margin-left: 27%;
+    font-size: xx-small;
+    line-height: 150%;
+    
+}
+#num{
+    font-weight: bold;
+    font-size: small;
+}
+.stmt{
+    margin-left: 6%;
+}
+#images{
+    padding: 6%;
+    margin-left: 60%;
+    margin-top: -30%;
+    background-image: url(splash.png);
+}
+.ten{
+    width: 20%;
+    padding-left: 5%;
+    padding-right: 3%;
+    border: solid;
+    border-color: #fdf6f6;
+    background-color: white;
+}
+.hundred{
+    width: 20%;
+    margin-left: 0.2%;
+    padding-left: 6%;
+    padding-right: 3%;
+    border: solid;
+    border-color: #fdf6f6;
+    background-color: white;
+}
+.projects{
+    width: 20%;
+    margin-left: 0.2%;
+    padding-left: 6%;
+    padding-right: 3%;
+    border: solid;
+    border-color: #fdf6f6;
+    background-color: white;
+}
+.rates{
+    display: flex;
+    margin-left: 11%;
+    margin-top: -7%;
+    font-family: 'Karla', sans-serif;
+}
+.white{
+    background-color: white;
+    margin: -7% 5% 5% 5%;
+    padding: 15%;
+}
+#slack{
+    width: 10%;
+    margin-left: -1%;
+}
+#prud{
+    width: 15%;
+    margin-left: 15%;
+}
+#microsoft{
+    width: 16%;
+    margin-left: 15%;
+}
+#zoover{
+    width: 11%;
+    margin-bottom: 1.5%;
+    margin-left: 10%;
+}
+.image{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.title{
+    display: flex; 
+    margin-left:40%;
+    margin-top: 15%;
+    font-family: 'Karla', sans-serif;
+}
+.service h3{
+    color: #43a192;
+    font-size: 70%;
+    font-family:sans-serif;
+    margin-bottom:20%;
+    margin-left: 50%;
+}
+.stmt2 h2{
+    font-size:30px;
+    color:#3a1604;
+    font-family:sans-serif;
+    font-weight: 1000;
+    margin-left:-5%;
+    text-align: center;
+    margin-top: 1%;
+    font-family: 'Karla', sans-serif;
+}
+.boxes{
+    font-family: 'Karla', sans-serif;
+    display: flex;
+}
+#circles{
+    padding: 3%;
+    border-radius: 50%;
+    background-color: #645BFF;
+    color: white;
+}
+.design{
+    padding: 5%;
+    width: 25%;
+    background-color: #F5F9FA;
+}
+.design h3{
+    font-weight: normal;
+    font-size: 73%;
+}
+#desktop{
+    padding: 3%;
+    border-radius: 50%;
+    background-color: #F5F9FA;
+    color: black;
+}
+.development{
+    border: solid;
+    padding: 5%;
+    width: 25%;
+    color: white;
+    background-color: #2CA794;
+}
+.development h3{
+    font-weight: normal;
+    font-size: 73%;
+}
+#crown{
+    padding: 3%;
+    border-radius: 50%;
+    background-color: #FFCC00;
+    color: black;
+}
+.marketing{
+    padding: 5%;
+    width: 25%;
+    background-color: #EAF5FF;
+}
+.marketing h3{
+    font-weight: normal;
+    font-size: 73%;
+}
+#imagess{
+    width: 85%;
+    padding: 1%;
+    margin-left: -20%;
+    margin-top: 4%;
+    background-image: url(splash.png);
+    background-repeat: no-repeat;
+}
+.imagee{
+    margin-top: 0.5%;
+    margin-left: 13%;
+}
+.title2{
+    display: flex; 
+    margin-left:54.5%;
+    margin-top: -55%;
+    font-family: 'Karla', sans-serif;
+}
+.how-we h3{
+    color: #43a192;
+    font-size: 70%;
+    font-family: 'Karla', sans-serif;
+    margin-bottom:20%;
+    margin-left: 50%;
+    width: 110%;
+}
+.stmt3 h2{
+    font-size:30px;
+    color:#3a1604;
+    font-family: 'Karla', sans-serif;
+    font-weight: 1500;
+    margin-left:60%;
+    width: 70%;
+    margin-top: 1%;
+}
+.one{
+    margin-bottom: 10%;
+}
+.list{
+    margin-left: 60%;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Karla', sans-serif;
+}
+.list span{
+    padding: 2%;
+    border-radius: 50%;
+    width: 110%;
+    margin-right: 5%;
+    color: white;
+    background-color: #43a192;
+}
+#two{
+        background-color: #645BFF;
+}  
+#three{
+    background-color: #FFC300;
+}
+.signup{
+    margin: -4% 5% 1% 5%;
+    background-color: white;
+    padding: 5%;
+}
+.signup h3{
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+    font-size: 300%;
+}
+.signup p{
+    text-align: center;
+    color:black;
+    font-family: 'Karla', sans-serif;
+    font-weight:600;
+    margin-top:-1%;
+}
+.signup input{
+    padding: 20px;
+    width:50%;
+    border-style: none;
+    background-color:#43a192;
+    border-radius:15px;
+}
+.signup input::placeholder{
+    color: #ffffff;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    margin-left: 1%;
+}
+.input button{
+    padding:5px;
+    width:15%;
+    border-radius:10px;
+    border-style: none;
+    background-color: #5886ea;
+    color: #ffffff;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin-left: -16%;
+    margin-top:1%;
+    margin-bottom:1%;
+    font-size: 14px;
+    font-family: 'Karla', sans-serif;
+}
+.cont{
+    background-color:#ffffff;
+    margin: 1% 5% 0 5%;
+    padding:20px;
+}
+.title3{
+    display: flex; 
+    margin-left:10%;
+
+}
+.title3 h3{
+    color: #43a192;
+    font-family: 'Karla', sans-serif; 
+}
+.how-we2{
+    font-size: 70%;
+}
+.cont h2{
+    margin-left:10%;
+    font-size:30px;
+    color:#3a1604;
+    font-family: 'Karla', sans-serif;
+    font-weight:1000;
+}
+.cont form{
+    margin-left:10%;
+}
+.cont form label{
+    font: size 18px;
+    font-family: 'Karla', sans-serif;
+    font-weight:700;
+
+}
+.cont form input{
+    width:35%;
+    padding:10px;
+    background-color:#fef8f8;
+    border-style: none;
+}
+.cont form input::placeholder{
+    margin-left:20%;
+}
+.cont form textarea{
+    background-color:#fef8f8;
+    border-style: none;
+    width:37%;
+    height:20%;
+    font-family: 'Karla', sans-serif;
+}
+.cont form button{
+    background-color: #43a191;
+    color: #ffffff;
+    border-style: none;
+    padding:15px;
+    border-radius:20px;
+    font-weight:700;
+    font-family: 'Karla', sans-serif;
+    margin-bottom: 5%;
+    box-shadow: 10px 8px 60px #fef8f8;
+}
+#images2{
+    padding: 6%;
+    margin-left: 61%;
+    margin-top: -60%;
+    background-image: url(splash.png);
+}
